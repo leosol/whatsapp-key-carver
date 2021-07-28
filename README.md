@@ -8,7 +8,7 @@ Sources included. Its very easy to build in linux and windows with cygwin
 
 ## Basic Idea 
 
-Search for the very first 30 bytes in the hole mmcblk0. Take a look at the diff between a 2018 key and a 2021 key (up to encrypting crypto14 files)
+Search for the very first 30 bytes in the whole mmcblk0. Take a look at the diff between a 2018 key and a 2021 key (up to encrypting crypto14 files)
 
 ![Basic Idea](pics/basic-idea.png)
 
